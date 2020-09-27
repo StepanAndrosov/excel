@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/StepanAndrosov/exel.git"
+    "url": "git+https://github.com/StepanAndrosov/excel.git"
   },
   "keywords": [
     "js",
@@ -20,7 +20,7 @@
   "author": "Stepan Androsov <stepan.news@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/StepanAndrosov/exel/issues"
+    "url": "https://github.com/StepanAndrosov/excel/issues"
   },
   "homepage": "https://github.com/StepanAndrosov/exel#readme",
   "private": true,
